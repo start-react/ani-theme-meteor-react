@@ -2,6 +2,9 @@
 
 This project is a port of the famous [Free Ani AngularJS Theme](http://startangular.com/product/ani-theme/) to Meteor.js plus React.js Theme.
 
+## Demo
+http://ani-react-theme.meteor.com
+
 ## Installation
 ####1. Clone this project or Download that ZIP file
 
