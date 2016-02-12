@@ -45,7 +45,7 @@ Dashboard = React.createClass({
                     <a href="/dashboard/reports">Reports</a>
                   </li>
                   <li>
-                    <a href="http://www.strapui.com/themes/ani-meteor-theme/">Premium MeteorJS Edition</a>
+                    <a href="http://www.strapui.com/themes/ani-meteor-theme/">Premium MeteorJS Angular Edition</a>
                   </li> 
                   <li>
                     <a href="http://startangular.com/product/ani-theme/">Free Angular version</a>
