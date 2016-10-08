@@ -9,7 +9,7 @@ http://ani-react-theme.meteor.com
 ####1. Clone this project or Download that ZIP file
 
 ```sh
-$ git clone git@github.com:start-react/ani-theme-meteor-react.git
+git clone https://github.com/start-react/ani-theme-meteor-react.git
 ```
 
 ####2.  Make sure you have [meteor](https://www.meteor.com/) installed globally
